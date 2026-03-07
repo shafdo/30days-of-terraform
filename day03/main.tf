@@ -25,7 +25,7 @@ resource "aws_vpc" "day30_tf_vpc" {
 
 
 # Resource: S3
-resource "aws_s3_bucket" "example" {
+resource "aws_s3_bucket" "day30_tf_bucket" {
   bucket = "day30-tf-bucket"
 
   tags = {
