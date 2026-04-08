@@ -49,7 +49,7 @@ resource "aws_s3_bucket" "example" {
   count  = 3
   bucket = "my-bucket-${count.index}"
 }
-````
+```
 
 **Use cases:**
 
@@ -267,3 +267,4 @@ Continue to Day 09 to learn about more advanced Terraform concepts!
 ---
 
 **Happy Learning! 🚀**
+````
