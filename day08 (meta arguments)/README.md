@@ -15,7 +15,7 @@ Welcome to Day 08 of the Terraform AWS Course! This lesson provides **comprehens
 
 ## 📁 Lesson Structure
 
-````
+```
 day08/
 ├── provider.tf      # AWS provider configuration
 ├── variables.tf     # Input variables (list, set, map, object types)
@@ -25,7 +25,7 @@ day08/
 ├── output.tf        # Output values demonstrating for loops
 ├── task.md          # Hands-on exercises and tasks
 └── README.md        # This file
-
+```
 
 ## 🎯 Key Concepts
 
@@ -267,4 +267,3 @@ Continue to Day 09 to learn about more advanced Terraform concepts!
 ---
 
 **Happy Learning! 🚀**
-````
